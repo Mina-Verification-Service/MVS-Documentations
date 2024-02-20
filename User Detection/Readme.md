@@ -14,4 +14,6 @@ The first social media we'd work with is X.com (formally known as twitter) as cu
 - twitonomy
 - botsentinel
 
-None of these cited examples are running ever since the twitter 
+None of these cited examples are running ever since twitter deactivated the free V1.1 endpoints.
+
+
