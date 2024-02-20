@@ -2,7 +2,7 @@
 
 [Architecture](https://drive.google.com/file/d/1IgLllNTEV-UxBAejl7jXQQbpsn2S2fcM/view?usp=drivesdk)
 
-![Arc](../assets/images/Mina%20Navigator.png)
+![Arc](../assets/Mina%20Navigator.png)
 
 ## Problem Statement
 
@@ -46,7 +46,7 @@ Mina is a layer-1 blockchain with a 22KB blockchain. The world's lightest blockc
 
 Here's what MINA is all about:
 
-![min](assets/images/mina.jpeg)
+![min](assets/mina.jpeg)
 
         Mina is zero-knowledge proofs all the way down.
 
